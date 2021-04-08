@@ -1,0 +1,2 @@
+# idnpoker
+Poker online pada dasarnya sama saja dengan permainan poker yang kita mainkan sehari-hari. Hanya saja, seluruh proses permainan dilakukan melalui layar. Poker adalah sebuah permainan yang memerlukan keterampilan dan strategi. Permainan yang digelar tentu akan memerlukan konsentrasi yang tinggi sebab pemain harus mengetahui dimana peluangnya untuk menang. Permainan poker juga dapat disebut sebagai permainan ketangkasan sama seperti catur dan lainnya.
